@@ -1,2 +1,4 @@
 # Infografia-2022
-Repositorio de la materia de Infografia, aqui podras observar proyectos realizados para dicha materia
+Parcial 2
+realise un juego muy parecido a packman pero con un mago que debe conseguir un tesoro
+
